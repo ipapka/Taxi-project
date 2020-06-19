@@ -5,5 +5,6 @@ This project is a [Kaggle competition](https://www.kaggle.com/c/yellowtaxi?rvi=1
 [Project presentation](http://www.pilotpu.eu/igor.papka/blog/)
 
 1. Part 1
+      * Data preprocessing with Dask
     * Data preparation
     * Data analize
