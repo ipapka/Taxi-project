@@ -6,5 +6,5 @@ This project is a [Kaggle competition](https://www.kaggle.com/c/yellowtaxi?rvi=1
 
 1. Part 1
       * [Data preprocessing with Dask](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_1/Part_1_Data_preprocessing_dask_2016.html)
-    * [Data preparation, cleaning and analyze](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_1/C6W1_data_preprocessing.html)
+    * [Data preparation, cleaning and analyze](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_1/Part_1_data_preprocessing.html)
     
