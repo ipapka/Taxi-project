@@ -24,7 +24,9 @@ In this part of work, I studied and predicted the time series of taxi rides in N
 
 The data preprocessing with Dask is also attached to the work.
 
-The work concept: at this stage of work I mastered the features and trained a number of SARIMA models on them in a short period of time (one week) At the same time, the quality and time of training strongly depend both on the length of the samples, and I have them for almost 2.5 years for each region, and on the number of attributes
+At this stage of work I mastered the features and trained a number of SARIMA models on them in a short period of time (one week) At the same time, the quality and time of training strongly depend both on the length of the samples, and I have them for almost 2.5 years for each region, and on the number of attributes
 
 4. Part 4
      * [Cluster forecasting](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_4/Part_4_cluster_forecasting.html)
+     
+In this task, I used the k-Shape algorithm and its implementation in the tslearn library to create clusters. After that I calculated parametrs for SARIMA model with exog and forecast trips for 102 areas of New York. The result score for SARIMA model with exog was 37.19 MAE
