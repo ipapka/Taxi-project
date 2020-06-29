@@ -30,3 +30,5 @@ At this stage of work I mastered the features and trained a number of SARIMA mod
      * [Cluster forecasting](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_4/Part_4_cluster_forecasting.html)
      
 In this task, I used the k-Shape algorithm and its implementation in the tslearn library to create clusters. After that I calculated parametrs for SARIMA model with exog and forecast trips for 102 areas of New York. The result score for SARIMA model with exog was 37.19 MAE
+
+<ins>text</ins>
