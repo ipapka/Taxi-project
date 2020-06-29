@@ -21,6 +21,7 @@ The objective of the project is to learn how to predict the number of trips in t
 *The data preprocessing with Dask is also attached to the work.*
 
 *The work concept: at this stage of work I mastered the features and trained a number of SARIMA models on them in a short period of time (one week) At the same time, the quality* *and time of training strongly depend both on the length of the samples, and I have them for almost 2.5 years for each region, and on the number of attributes*
+
                * [Data visualization](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_2/Part_2_Data_visualization.html)
      
 3. Part 3
