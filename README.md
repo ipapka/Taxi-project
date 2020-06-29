@@ -14,15 +14,16 @@ The objective of the project is to learn how to predict the number of trips in t
       * [Data preprocessing with Dask](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_1/Part_1_Data_preprocessing_dask_2016.html)
     * [Data preparation, cleaning and analyze](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_1/Part_1_data_preprocessing.html)
     
-2. Part 2   *In this part of work, I studied and predicted the time series of taxi rides in New York in the area of Empire State Building.*
-
-*The data preprocessing with Dask is also attached to the work.*
-
-*The work concept: at this stage of work I mastered the features and trained a number of SARIMA models on them in a short period of time (one week) At the same time, the quality* *and time of training strongly depend both on the length of the samples, and I have them for almost 2.5 years for each region, and on the number of attributes*
-     
- * [Data visualization](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_2/Part_2_Data_visualization.html)
+2. Part 2   
+     * [Data visualization](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_2/Part_2_Data_visualization.html)
      
 3. Part 3
      * [Forecasting](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_3/Part_3_forecasting.html)
+
+In this part of work, I studied and predicted the time series of taxi rides in New York in the area of Empire State Building.
+
+The data preprocessing with Dask is also attached to the work.
+
+The work concept: at this stage of work I mastered the features and trained a number of SARIMA models on them in a short period of time (one week) At the same time, the quality and time of training strongly depend both on the length of the samples, and I have them for almost 2.5 years for each region, and on the number of attributes
 
 4. Part 4
