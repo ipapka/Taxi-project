@@ -16,3 +16,7 @@ The objective of the project is to learn how to predict the number of trips in t
     
 2. Part 2
      * [Data visualization](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_2/Part_2_Data_visualization.html)
+     
+3. Part 3
+
+4. Part 4
