@@ -33,6 +33,7 @@ In this task, I used the k-Shape algorithm and its implementation in the *tslear
 
 4. <ins>Part 5</ins>
      * [XGBoost regression model](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_5/Part_5_regression.html)
+     
 At this stage of work, I mastered new features, added SARIMA models predictions as features, and trained new XGBoost regressions models on them for each of 102 areas of New York.
 The new achieved score was 15.05, that is two times better than previous SARIMA model result
 
