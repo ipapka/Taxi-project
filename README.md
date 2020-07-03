@@ -31,4 +31,9 @@ At this stage of work I mastered the features and trained a number of SARIMA mod
      
 In this task, I used the k-Shape algorithm and its implementation in the *tslearn* library to create clusters. After that I calculated parametrs for SARIMA model with exog and forecast trips for 102 areas of New York. The result score for SARIMA model with exog was 37.19 MAE
 
+4. <ins>Part 5</ins>
+     * [XGBoost regression model](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_5/Part_5_regression.html)
+At this stage of work, I mastered new features, added SARIMA models predictions as features, and trained new XGBoost regressions models on them for each of 102 areas of New York.
+The new achieved score was 15.05, that is two times better than previous SARIMA model result
+
 
