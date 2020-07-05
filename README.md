@@ -41,3 +41,5 @@ The new achieved score was 15.05, that is two times better than previous SARIMA 
      * [Mastering new features to improve the score](https://htmlpreview.github.io/?https://github.com/ipapka/Taxi-project/blob/master/Part_6/Part_6_new_features.html)
      
 At this stage of work, I mastered much more new features from raw data and data related to traffic in NYC from other internet resources. I established, that adding new data not always improve the score and tried to understand why.
+
+The final score of the work is 14.66 and is in the top 20 best results of the competition.
